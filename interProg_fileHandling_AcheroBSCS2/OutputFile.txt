@@ -1,0 +1,3 @@
+Length is 109 bytes
+The path of file is ..\interProg_fileHandling_AcheroBSCS2\src\interProg_fileHandling_AcheroBSCS2\SampleText.txt
+Word count is 20
