@@ -1,1 +1,1 @@
-Laboratory Activities about Ojects and Classes (Java)
+Laboratory Activities about Objects and Classes (Java)
